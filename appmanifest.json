@@ -1,7 +1,7 @@
 {
 	"name": "Running Back DX",
 	"short_name": "Running Back DX",
-	"start_url": "index.html",
+	"start_url": "https://cdn.jsdelivr.net/gh/images-google-com/b5b5b5@main/index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
 	"icons": [{
